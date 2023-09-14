@@ -1,15 +1,15 @@
 # ⚠️🚨EM CONSTRUÇÃO🚨⚠️
 
-# ANÁLISE DE CAMPAHA DE MARKETING
+# ANÁLISE EXPLORATÓRIA DE CAMPAHA DE MARKETING
 
 
 # Título do Projeto
-Uma breve descrição do projeto.
+O projeto "Análise de Campanha de Marketing" foi desenvolvido para atender às necessidades do departamento de marketing da empresa fictícia MKT Ltda. A ação proposta é para entender o perfil dos clientes e avaliar os resultados das campanhas realizadas com objetivo de aprimorar as estratégias de marketing da empresa, aumentar a assertividade nas campanhas e, consequentemente, impulsionar o crescimento das receitas.
 
 ## Índice
 
 - [Visão Geral](#visão-geral)
-- [Requisitos](#requisitos)
+- [Metodologia](#metodologia)
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
 - [Contribuições](#contribuições)
@@ -17,33 +17,37 @@ Uma breve descrição do projeto.
 
 ## Visão Geral
 
-O Projeto XYZ é uma ferramenta de código aberto que facilita a...
+O projeto "Análise de Campanha de Marketing" surge como uma resposta às demandas do departamento de marketing da empresa fictícia MKT Ltda, a fim  otimizar as estratégias de marketing, compreender profundamente o perfil dos clientes e aperfeiçoar as campanhas de marketing. Este projeto visa atingir três metas essenciais:
 
-![Captura de Tela](screenshot.png)
+- Maior Assertividade nas Campanhas: Entender o comportamento dos clientes e avaliar o desempenho das campanhas de marketing anteriores é fundamental para aprimorar as estratégias. Isso resultará em campanhas futuras mais eficazes, direcionadas e capazes de alcançar o público-alvo de maneira mais precisa.
+
+- Aumento das Receitas: Sabemos que a receita da empresa está diretamente relacionada ao aumento das vendas. Ao melhorar a eficácia das campanhas de marketing, esperamos impulsionar o crescimento das receitas da MKT Ltda.
+
+- Aprimoramento Estratégico: Além do aumento das receitas, este projeto visa aprimorar as estratégias de marketing da empresa, garantindo que cada ação seja planejada com base em informações sólidas por meio de análises baseadas em dados.
+
+## Metodologia
+
+A meotdoligia aplicada ao projeto é a Análise Exploratória de Dados, que visa abordagem para análise e investigação de dados. Por meio dela dela ocorre a obtenção de insights e coleta de informações que, posteriormente, poderão direcionar tomadas de decições mais coesas e acertivas, como também poderá alimentar modelos de machine learning.
 
 ## Requisitos
 
 - Python 3.6 ou superior
-- Biblioteca XYZ
-
-## Instalação
-
-Siga estas etapas para instalar o projeto:
-
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
-2. Navegue para o diretório do projeto: `cd seu-projeto`
-3. Execute o instalador: `python setup.py install`
-4. 
+- Requests
+- Pandas
+- Seaborn
+- Matplotlib
 
 ## Como Usar
 
-Aqui está um exemplo de como usar o projeto:
+Configuração de usuário em todos os repositórios (--global):
+Nome de usuário para os seus commits --> $ git config --global user.name "seu nome"
+Defina o e-mail para seus commits --> $ git user.email "seuemail.@email.com"
 
-python
-import seu_modulo
+Iniciando o projeto:
+Iniciando um repositório Git em um diretório existente --> $ git init
+Clonando o repositório deste projeto --> $ git clone https://github.com/marcelo-silva-goncalves/analise-campanha-marketing
+Renomeando branchpara main visto que a padrão é a master --> $ git branch -m main
 
-resultado = seu_modulo.funcao(parametro)
-print(resultado)
 
 ## Contribuições
 
