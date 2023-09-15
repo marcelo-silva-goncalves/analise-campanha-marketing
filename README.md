@@ -1,18 +1,16 @@
-# ⚠️🚨EM CONSTRUÇÃO🚨⚠️
-
-# ANÁLISE EXPLORATÓRIA DE CAMPANHA DE MARKETING
+# ANÁLISE EXPLORATÓRIA DE CAMPANHA DE MARKETING 📊
 O projeto "Análise de Campanha de Marketing" foi desenvolvido para atender às necessidades do departamento de marketing da empresa fictícia MKT Ltda. A ação proposta é para entender o perfil dos clientes e avaliar os resultados das campanhas realizadas com objetivo de aprimorar as estratégias de marketing da empresa, aumentar a assertividade nas campanhas e, consequentemente, impulsionar o crescimento das receitas.
 
-## Índice
+## Índice 📝
 
-- [Visão Geral](#visão-geral)
-- [Metodologia](#metodologia)
-- [Requisitos](#requisitos)
-- [Contribuições](#contribuições)
-- [Licenças](#licenças)
-- [Créditos](#créditos)
+- [Visão Geral](#Visão-Geral)
+- [Metodologia](#Metodologia)
+- [Requisitos](#Requisitos)
+- [Contribuições](#Contribuições)
+- [Licenças](#Licenças)
+- [Créditos](#Créditos)
 
-## Visão Geral
+## Visão Geral 🔎
 
 O projeto "Análise de Campanha de Marketing" surge como uma resposta às demandas do departamento de marketing da empresa fictícia MKT Ltda, a fim otimizar as estratégias de marketing, compreender profundamente o perfil dos clientes e aperfeiçoar as campanhas de marketing. Este projeto visa atingir três metas essenciais:
 
@@ -22,11 +20,11 @@ O projeto "Análise de Campanha de Marketing" surge como uma resposta às demand
 
 - Aprimoramento Estratégico: Além do aumento das receitas, este projeto visa aprimorar as estratégias de marketing da empresa, garantindo que cada ação seja planejada com base em informações sólidas por meio de análises baseadas em dados.
 
-## Metodologia
+## Metodologia 📌
 
 A metodologia aplicada ao projeto é a Análise Exploratória de Dados, que visa abordagem para análise e investigação de dados. Por meio dela ocorre a obtenção de insights e coleta de informações que, posteriormente, poderão direcionar tomadas de decisões mais coesas e assertivas, como também poderá alimentar modelos de machine learning.
 
-## Requisitos
+## Requisitos ✔️
 
 - Python 3.6 ou superior
 - Requests
@@ -35,32 +33,34 @@ A metodologia aplicada ao projeto é a Análise Exploratória de Dados, que visa
 - Matplotlib
 - Sistema Git
 
-## Acesso ao Projeto e Contribuições
+## Contribuições 💡
 
-Fique à vontade realizar o acesso ao projeto apresentando e contribuir para o aprimoramento do mesmo. Para fazer isso:
+Fique à vontade contribuir para o aprimoramento do mesmo. Para fazer isso, realize os procedimentos básicos a seguir:
 
-Configuração de usuário em todos os repositórios (--global):
+<p>configurando nome de usuário para os seus commits</p>
+<p>-->git config --global user.name "seu nome"</p>
+<p>Defina o e-mail do usuário para seus commits</p>
+<p>--> git user.email "seuemail@email.com"</p>
+<p>Iniciando um repositório Git em um diretório existente</p>
+<p>--> git init</p>
+<p>Clonando o repositório deste projeto</p>
+<p>--> git clone https://github.com/marcelo-silva-goncalves/analise-campanha-marketing</p>
+<p>Renomeando branch para main visto que o padrão é a master</p>
+<p>--> git branch -m main</p>
+<p>Verificar a presença de arquivos modificados no seu diretório local</p>
+<p>--> git status</p>
+<p>Adiciona o arquivo para o estado de preparo, a fim de ser commitado</p>
+<p>--> git add nomedoarquivo.ipynb</p>
+<p>Registrar uma mensagem sobre o arquivo alterado</p>
+<p>--> git commit -m "mensagem que descreve o commit"</p> 
+<p>Submete as alterações para o repositório no Github</p>
+--> git push
 
-Nome de usuário para os seus commits --> $ git config --global user.name "seu nome"
-Defina o e-mail para seus commits --> $ git user.email "seuemail.@email.com"
+## Licenças 🔓
 
-Acesso ao projeto o projeto:
+Este projeto está licenciado sob a licença MIT. Para obter mais informações clique [aqui](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer).
 
-Iniciando um repositório Git em um diretório existente --> $ git init
-Clonando o repositório deste projeto --> $ git clone https://github.com/marcelo-silva-goncalves/analise-campanha-marketing
-Renomeando branch para main visto que o padrão é a master --> $ git branch -m main
+## Créditos 🔗
 
-Contribuições:
-Após acesso, você poderá realizar as alterações nas cópias dos arquivos do repositório!
- verificar o status dos arquivos no diretório local --> $ git status
-Adiciona
-
-
-## Licenças
-
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
-## Créditos
-
-- [Autor do Projeto](https://github.com/seu-usuario)
-- [Biblioteca XYZ](https://github.com/biblioteca-xyz)
+- [Base de dados primária](https://www.kaggle.com/datasets/shashankshukla123123/marketing-campaign)
+- [Apresentação do projeto](https://www.canva.com/design/DAFtq98pj5U/AzUt8WggpT1kHpQk1L0azA/view?utm_content=DAFtq98pj5U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
