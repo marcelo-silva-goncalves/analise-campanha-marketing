@@ -1,4 +1,7 @@
 # ANÁLISE EXPLORATÓRIA DE CAMPANHA DE MARKETING 📊
+
+![Imagem inicial do projeto](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
+
 O projeto "Análise de Campanha de Marketing" foi desenvolvido para atender às necessidades do departamento de marketing da empresa fictícia MKT Ltda. A ação proposta é para entender o perfil dos clientes e avaliar os resultados das campanhas realizadas com objetivo de aprimorar as estratégias de marketing da empresa, aumentar a assertividade nas campanhas e, consequentemente, impulsionar o crescimento das receitas.
 
 ## Índice 📝
